@@ -25,7 +25,7 @@ function SideBar() {
 					<span>Pages</span>
 				</a>
 			</li>
-			<li classNme="nav-item">
+			<li className="nav-item">
 				<a className="nav-link" href="/">
 					<i className="fas fa-fw fa-chart-area"></i>
 					<span>Charts</span></a>
